@@ -1,7 +1,5 @@
 <?php
 
-use Car as GlobalCar;
-
 abstract class Car
 {
     abstract function applyBreak();
