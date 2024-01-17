@@ -29,5 +29,3 @@ class StringHelper
 }
 StringHelper::countVowel("Aeroplane");
 StringHelper::countVowel("This is a String to Count Vowels");
-// $str = "Hello";
-// echo strlen($str);
